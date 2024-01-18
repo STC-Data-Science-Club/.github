@@ -1,12 +1,5 @@
 ## Hi there 👋 Thanks for checking out the City University of Seattle Data Science Club
 
-<!--
+Please pardon the mess while we are getting settled. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are excited to bring Data Science content through tutorials, guest speakers, and projects. To learn more about the team and upcoming events, check out our [website](https://stc-data-science-club.github.io/STCDataScienceClub.github.io/)
