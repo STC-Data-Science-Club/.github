@@ -2,4 +2,4 @@
 
 Please pardon the mess while we are getting settled. 
 
-We are excited to bring Data Science content through tutorials, guest speakers, and projects. To learn more about the team and upcoming events, check out our [website](https://stc-data-science-club.github.io/STCDataScienceClub.github.io/)
+We are excited to bring Data Science content through tutorials, guest speakers, and projects. To learn more about the team and upcoming events, check out our [website](https://stc-data-science-club.github.io/)
